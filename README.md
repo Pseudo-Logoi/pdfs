@@ -11,3 +11,5 @@
 [Operating Systems - Three Easy Pieces_部分2.html](Operating%20Systems%20-%20Three%20Easy%20Pieces_部分2.html)
 
 [rm0440-stm32g4-series-advanced-armbased-32bit-mcus-stmicroelectronics-18-26](rm0440-stm32g4-series-advanced-armbased-32bit-mcus-stmicroelectronics-18-26.html)
+
+[rm0440-stm32g4-series-advanced-armbased-32bit-mcus-stmicroelectronics-29-37](rm0440-stm32g4-series-advanced-armbased-32bit-mcus-stmicroelectronics-29-37.html)
